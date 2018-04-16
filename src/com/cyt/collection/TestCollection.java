@@ -8,6 +8,7 @@ public class TestCollection {
 
 	Object[] obj ;
 	
+	
 	public static void main(String[] args) {
 		Collection col = new ArrayList();
 		col.add("1");
